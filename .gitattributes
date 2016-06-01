@@ -1,0 +1,16 @@
+* text=auto !eol
+/AUTHORS -text
+/COPYING -text
+/ChangeLog -text
+/Makefile.am -text
+/NEWS -text
+/README -text
+/apertium-ast.ast.acx -text
+/apertium-ast.ast.dix -text
+/apertium-ast.ast.rlx -text
+/apertium-ast.pc.in -text
+/apertium-ast.post-ast.dix -text
+/ast.prob -text svneol=unset#unset
+/autogen.sh -text
+/configure.ac -text
+/modes.xml -text
