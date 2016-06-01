@@ -8,6 +8,7 @@
 /apertium-ast.ast.acx -text
 /apertium-ast.ast.dix -text
 /apertium-ast.ast.rlx -text
+/apertium-ast.ast.tsx -text
 /apertium-ast.pc.in -text
 /apertium-ast.post-ast.dix -text
 /ast.prob -text svneol=unset#unset
