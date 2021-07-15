@@ -1,0 +1,5 @@
+# from https://wiki.apertium.org/wiki/Asturian_and_Spanish/Pending_tests
+Esto nun ye una prueba
+Voy a hacer
+Voy a hacerlo
+Voy a decirselo

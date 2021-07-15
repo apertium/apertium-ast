@@ -1,0 +1,8 @@
+[2LTdndMCR_sH#0] ^Voy/*Voy$ ^a/a<pr>$ ^hacer/*hacer$
+[/2LTdndMCR_sH]
+[S13rVcUUxjkX#0] ^Voy/*Voy$ ^a/a<pr>$ ^decirselo/*decirselo$
+[/S13rVcUUxjkX]
+[eqyMXO8JkLk6#0] ^Voy/*Voy$ ^a/a<pr>$ ^hacerlo/*hacerlo$
+[/eqyMXO8JkLk6]
+[yuc4z1OVE3wN#0] ^Esto/esti<prn><tn><nt><sg>/esti<det><dem><nt><sg>$ ^nun/nun<adv>/en<pr>+un<det><ind><m><sg>$ ^ye/ser<vbser><pri><p3><sg>$ ^una/un<num><f><sg>/unu<adj><f><sg>/un<det><ind><f><sg>/ún<prn><tn><f><sg>$ ^prueba/prueba<n><f><sg>/probar<vblex><pri><p3><sg>/probar<vblex><imp><p2><sg>$
+[/yuc4z1OVE3wN]
